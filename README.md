@@ -25,5 +25,5 @@ This implementation moves beyond "out-of-the-box" usage, focusing on the mathema
 
 ---
 
-### 妬 About the Developer
-I am **Jade G Acevedo Diaz**, a Data Scientist and AI Engineer. My portfolio reflects a commitment to technical rigor, whether I am managing clinical data warehouses at Rutgers or architecting multi-model NLP pipelines.
+###  About the Developer
+I am **Jade**, a Data Scientist and AI Engineer. My portfolio reflects a commitment to technical rigor, whether I am managing clinical data warehouses at Rutgers or architecting multi-model NLP pipelines.
